@@ -1,4 +1,4 @@
-# Gold Session Breakout Engine (XAU/USD)
+# Gold Session Breakout Engine (GOLD CFDs)
 
 An institutional-grade, fully automated algorithmic trading system engineered for MetaTrader 5 (MT5). The system is designed to isolate the low-volatility structural boundaries of the Asian trading session on Gold (XAU/USD) and exploit the high-liquidity volume expansion that occurs during the European/London market open. 
 
